@@ -3,3 +3,4 @@ var i = false;
 if(i = true){
     console.log("hello");
 }
+console.log("hello");
